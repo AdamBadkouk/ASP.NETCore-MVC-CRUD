@@ -1,6 +1,6 @@
 # ASP.NET Core MVC CRUD Operations
 
-A simple **ASP.NET Core** MVC application for managing student records with **Entity Framework Core** and **SQL Server**.
+A simple **ASP.NET Core MVC** application for managing student records with **Entity Framework Core** and **SQL Server**.
 
 ## Features
 
