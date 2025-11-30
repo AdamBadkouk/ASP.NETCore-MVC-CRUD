@@ -50,12 +50,14 @@ Edit the `appsettings.json` file in the `ASP.NETCore-MVC` folder to match your S
 ```json
 {
   "ConnectionStrings": {
-    "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=DB1;Encrypt=False;Trusted_Connection=True;MultipleActiveResultSets=true"
+    "DefaultConnection": "Server=YOUR_SERVER_NAME;Database=YOUR_DB_NAME;Encrypt=False;Trusted_Connection=True;MultipleActiveResultSets=true"
   }
 }
 ```
 
-> **Note**: Replace `YOUR_SERVER_NAME` with your actual SQL Server instance name.
+> **Note**:
+> - Replace `YOUR_SERVER_NAME` with your actual SQL Server instance name.
+> - Replace `YOUR_DB_NAME` with your actual Database name
 
 
 ### 3. Apply Database Migrations
