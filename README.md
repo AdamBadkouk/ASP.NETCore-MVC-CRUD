@@ -84,8 +84,8 @@ dotnet run
 ```
 
 The application will be available at:
-- HTTPS: `https://localhost:7***`
-- HTTP: `http://localhost:5***`
+- HTTPS: `https://localhost:7243`
+- HTTP: `http://localhost:5057`
 
 
 ## Usage
